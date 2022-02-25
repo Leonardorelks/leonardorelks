@@ -10,3 +10,4 @@
   <div style= "display: inline_block"><br/>
    Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   
+file:///C:/Users/leonardo.chaves/Documents/estudos/portf%C3%B3lio%20pessoal/css/index.html
